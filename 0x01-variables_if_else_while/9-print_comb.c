@@ -2,8 +2,9 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: prints all single digit numbers of base 10
- * starting from 0, followed by a new line.
+ * Description: program that prints all possible combinations of single-digit numbers.
+ * Numbers must be separated by , , followed by a space
+ * Numbers should be printed in ascending order.
  * Return: 0
  */
 int main(void)
