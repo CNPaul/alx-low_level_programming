@@ -4,7 +4,6 @@
  * Description: computes and prints the sum of even-valued fibonacci numbers < 4,000,000
  * Return: 0
  */
-
 int main(void)
 {
 	int a = 0, b = 1, next = 0;
